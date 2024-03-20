@@ -1,5 +1,4 @@
 # Library Management Project
-## This is a project of one of my customers at btec fpt college
 ## Information
 This library management project includes basic CRUD functionalities for managing authors, works, and readers.
 
